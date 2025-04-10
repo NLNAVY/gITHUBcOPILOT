@@ -13,6 +13,7 @@
            ACCEPT NUM1.
            DISPLAY "NUMBER 1".
            DISPLAY "NUMBER 2".
+            DISPLAY "NUMBER 5".
            DISPLAY NUM1.
            DISPLAY "Enter the second number: " WITH NO ADVANCING.
            ACCEPT NUM2.
