@@ -12,6 +12,8 @@
            DISPLAY "Enter the first number: " WITH NO ADVANCING.
            ACCEPT NUM1.
            DISPLAY "NUMBER 1".
+           DISPLAY "NUMBER 2".
+           DISPLAY NUM1.
            DISPLAY "Enter the second number: " WITH NO ADVANCING.
            ACCEPT NUM2.
            COMPUTE RESULT = NUM1 + NUM2.
